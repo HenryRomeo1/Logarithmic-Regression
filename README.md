@@ -4,7 +4,7 @@
 Model relationships between variables using a logarithmic regression approach.
 
 **Data**:  
-- Source: Logarithmic Regressions Dataset ('Bank Customer Churn Prediction')
+- Source: Logarithmic Regressions Dataset (`Bank Customer Churn Prediction`)
 
 **Data Mining Operations**:  
 - Conducted logarithmic transformations on independent variables.
